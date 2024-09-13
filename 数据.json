@@ -1,0 +1,36 @@
+{
+    "code": 200,
+    "msg": "success",
+    "data": {
+        "author": "安心米儿",
+        "uid": "",
+        "avatar": "https:\/\/p11.douyinpic.com\/aweme\/100x100\/aweme-avatar\/tos-cn-avt-0015_9367a38b10ed96875611b67338ed7974.jpeg?from=327834062",
+        "like": 203499,
+        "time": 1724495763,
+        "title": "#若把你dj #若把你 #抖音潮流舞蹈地图",
+        "cover": "https:\/\/p3-sign.douyinpic.com\/tos-cn-p-0015\/oIcZrImLbJ3T65BQiiIPsIEj8ltQMdAB5AP0Q~c5_300x400.webp?x-expires=1727010000&x-signature=dHtDiaVJNgYqvsHgFS1dhfVlYQQ%3D&from=327834062_large&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=2024090821324155BBEA9B5A2E681F4015",
+        "url": "http:\/\/www.iesdouyin.com\/aweme\/v1\/play\/?video_id=v0d00fg10000cr4res7og65s844lrpq0&ratio=1080p&line=0",
+        "music": {
+            "author": "安心米儿",
+            "avatar": "https:\/\/p3.douyinpic.com\/aweme\/1080x1080\/aweme-avatar\/tos-cn-avt-0015_9367a38b10ed96875611b67338ed7974.jpeg?from=327834062"
+        }
+    }
+}
+{
+    "code": 200,
+    "msg": "success",
+    "data": {
+        "author": "oioi",
+        "uid": "",
+        "avatar": "https:\/\/p26.douyinpic.com\/aweme\/100x100\/aweme-avatar\/tos-cn-i-0813_o8VD8DEnASAIsdq8bAW2CAAQQYeY3fgSlffLzM.jpeg?from=327834062",
+        "like": 67,
+        "time": 1715015493,
+        "title": "约定好了 一起去南京吧！ \n#总要来趟南京吧 #南京 #回忆",
+        "cover": "https:\/\/p3-sign.douyinpic.com\/tos-cn-i-0813c001\/owjmOAzxEAChAANNNAAgIRAf8Q5K15GexJP9DD~noop.webp?x-expires=1727010000&x-signature=wSZUXz4t0b3XwwywQu4wCmgXhas%3D&from=327834062_large&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_images&l=202409082137297D6F3B5E27DDE521846B",
+        "url": "http:\/\/www.iesdouyin.com\/aweme\/v1\/play\/?video_id=https:\/\/sf5-hl-cdn-tos.douyinstatic.com\/obj\/ies-music\/7228982482213456678.mp3&ratio=1080p&line=0",
+        "music": {
+            "author": "没有好名字",
+            "avatar": "https:\/\/p11.douyinpic.com\/aweme\/1080x1080\/aweme-avatar\/tos-cn-i-0813c001_96e0068e97f241bc9d7e62b77fd2b45e.jpeg?from=327834062"
+        }
+    }
+}
